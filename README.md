@@ -80,6 +80,9 @@ Proje kapsamında ayrıca bir Streamlit tabanlı arayüz geliştirilmiştir. Bu 
 pip install -r requirements.txt  
 streamlit run app.py  
 ```
+![image](https://github.com/user-attachments/assets/76185629-85b7-4fe6-b7f3-110c60eabc4f)
+
+---
 ## 🚀 Sonuç ve Gelecek Çalışmalar
 
 Bu projede öğrenci davranışları ile akademik başarı arasındaki ilişki başarılı bir şekilde modellenmiştir. Özellikle previous_gpa, stress_anxiety_combined ve attendance_percentage gibi özelliklerin tahmin üzerinde yüksek etkisi olduğu görülmüştür.   
@@ -88,7 +91,6 @@ Gelecekte Yapılabilecekler
 - Gerçek Zamanlı Veri Toplama: Anket formu/uygulama entegrasyonu ile veri akışı sağlanabilir.
 - Web Tabanlı Arayüz: Kullanıcıların kendi verilerini girerek sınav tahmini alabilecekleri bir uygulama geliştirilebilir.
 - Psikolojik Faktör Analizi: Stres, uyku, sosyal çevre gibi değişkenlerin daha detaylı analizi yapılabilir.
-- Zaman Serisi Modelleme: Uzun vadeli başarı tahminleri için zaman bazlı modeller denenebilir.
 
 ## 🔗 Linkler (Bağlantılar)
 
